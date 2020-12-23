@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Gilroy";
+    src: url("../public/fonts/Gilroy-Medium.ttf");
+}
+
+@font-face {
+    font-family: "SegoeScript";
+    src: url("../public/fonts/segoesc.ttf");
+}
